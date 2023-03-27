@@ -11,5 +11,4 @@ ___Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D
 \* equal contribution
 <br />
 Preprint | [paper](https://arxiv.org/abs/2303.13873) | [Project Page](https://fantasia3d.github.io/) | [Code](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) | [Video](https://www.youtube.com/watch?v=Xbzl4HzFiNo)
-
 <img width="100%" src="../images/fantasia3D.jpg"/>
