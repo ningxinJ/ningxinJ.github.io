@@ -1,9 +1,9 @@
 ---
 title: "Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation"
 collection: research
-permalink: ningxinJ.github.io\_research\2023-03-27-paper-Fantasia3D
+permalink: 'https://arxiv.org/abs/2303.13873'
 date: 2023-03-27
-paperurl: 'https://arxiv.org/abs/2303.13873'
+# paperurl: 'https://arxiv.org/abs/2303.13873'
 ---
 [Rui Chen*](https://aruichen.github.io/), [Yongwei Chen*](https://cyw-3d.github.io/), __Ningxin Jiao__, [Kui Jia](http://kuijia.site/)
 <br />\* equal contribution
