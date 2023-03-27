@@ -5,7 +5,7 @@ permalink: ningxinJ.github.io\_research\2023-03-27-paper-Fantasia3D
 date: 2023-03-27
 # paperurl: 'https://arxiv.org/abs/2303.13873'
 ---
-<br /> [Rui Chen*](https://aruichen.github.io/), [Yongwei Chen*](https://cyw-3d.github.io/), __Ningxin Jiao__, [Kui Jia](http://kuijia.site/)
+[Rui Chen*](https://aruichen.github.io/), [Yongwei Chen*](https://cyw-3d.github.io/), __Ningxin Jiao__, [Kui Jia](http://kuijia.site/)
 <br />\* equal contribution
 <br />Preprint | [paper](https://arxiv.org/abs/2303.13873) | [Project Page](https://fantasia3d.github.io/) | [Code](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) | [Video](https://www.youtube.com/watch?v=Xbzl4HzFiNo)
 
