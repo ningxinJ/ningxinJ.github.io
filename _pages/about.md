@@ -10,4 +10,5 @@ redirect_from:
 ---
 I'm a first year graduate student from [School of Electronic and Information Engineering](https://www2.scut.edu.cn/ee/main.htm), [South China University of Technology](https://www.scut.edu.cn). My research interest includes computer vision, computer graphics, and 3D Shape modeling and processing。
 
-[Email](mailto:jiaoningxin@gmail.com) / [Github](https://github.com/ningxinJ)
+Email:(mailto:jiaoningxin@gmail.com)  
+[Github](https://github.com/ningxinJ)
