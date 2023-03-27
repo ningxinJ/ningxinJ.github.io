@@ -48,8 +48,8 @@
         {% endif %} -->
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    <!-- <p class="archive__item-excerpt" itemprop="description">{{ markdownify }} -->
+    <!-- <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p> -->
+    <p class="archive__item-excerpt" itemprop="description">{{ markdownify }}
     <!-- <p style="text-align: center;"><img style="width:90%;" src="../images/fantasia3D.jpg"></p> -->
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
